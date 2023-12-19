@@ -4,7 +4,7 @@ buying/selling information about btc at the moment, it’s same as the stock mar
 the market data of btc@usdt (referred to as ‘btcusdt’, ‘usdt’ implies US dollars)
 
 # Output
-Data is sent in real-time to a TXT file.
+Data is sent in real-time to a txt file.
 ```bash
 // tail -n 10 stream-data-binance.txt
 btcusdt@trade,p:"43194.96000000",q:"0.00052000"
